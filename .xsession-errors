@@ -242,3 +242,15 @@ E: No se han podido descargar algunos archivos de índice, se han omitido, o se 
 <p>The requested URL was not found on this server.</p>
 </body></html>
 
+08:22:50:0752 Gs  hiding category audio-video featured applications: found only 0 to show, need at least 9
+08:22:50:0752 Gs  hiding category graphics featured applications: found only 0 to show, need at least 9
+08:22:50:0752 Gs  Only 0 apps for recent list, hiding
+08:22:50:0776 Gs  automatically prevented from changing kind on system/package/debian-oldstable-main/generic/org.gphoto.libgphoto2/* from generic to unknown!
+08:22:51:0296 Gs  not handling error download-failed for action refine: failed to download http://people.gnome.org/~jimmac/gnome-software/spotify-logo.svg: Not Found: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+</body></html>
+
