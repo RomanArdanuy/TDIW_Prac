@@ -1,0 +1,13 @@
+2023-10-06 09:36:17,844 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2023-10-06 09:36:18,941 [   1097]   INFO -        #com.intellij.idea.Main - IDE: PhpStorm (build #PS-181.5281.35, 14 Jun 2018 22:18) 
+2023-10-06 09:36:18,941 [   1097]   INFO -        #com.intellij.idea.Main - OS: Linux (5.10.0-15-amd64, amd64) 
+2023-10-06 09:36:18,941 [   1097]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2023-10-06 09:36:18,941 [   1097]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2023-10-06 09:36:19,106 [   1262]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/TDIW/tdiw-k11/java_error_in_PHPSTORM_%p.log -XX:HeapDumpPath=/home/TDIW/tdiw-k11/java_error_in_PHPSTORM.hprof -Didea.paths.selector=PhpStorm2018.1 -Djb.vmOptionsFile=/opt/PhpStorm-181.5281.35/bin/phpstorm64.vmoptions -Didea.platform.prefix=PhpStorm -Didea.jre.check=true 
+2023-10-06 09:36:19,107 [   1263]   INFO -        #com.intellij.idea.Main - ext: /opt/PhpStorm-181.5281.35/jre64/lib/ext: [cldrdata.jar, jfxrt.jar, zipfs.jar, dnsns.jar, sunjce_provider.jar, meta-index, jaccess.jar, nashorn.jar, sunpkcs11.jar, localedata.jar, sunec.jar] 
+2023-10-06 09:36:19,107 [   1263]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2023-10-06 09:36:19,348 [   1504]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 239 ms 
+2023-10-06 09:36:19,953 [   2109]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2023-10-06 09:36:19,953 [   2109]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2023-10-06 09:37:12,432 [  54588]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2023-10-06 09:37:12,441 [  54597]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

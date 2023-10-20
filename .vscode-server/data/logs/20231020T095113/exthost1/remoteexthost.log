@@ -1,0 +1,13 @@
+2023-10-20 09:51:15.456 [info] Extension host with pid 365055 started
+2023-10-20 09:51:15.516 [info] Lock '/home/TDIW/tdiw-k11/.vscode-server/data/User/workspaceStorage/74c4d86dc863f504f15dde947b3a866a/vscode.lock': Lock acquired.
+2023-10-20 09:51:15.585 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-20 09:51:15.718 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-20 09:51:15.719 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-20 09:51:16.239 [info] Eager extensions activated
+2023-10-20 09:51:16.240 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-20 09:51:16.240 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-20 09:51:23.064 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-10-20 09:51:23.066 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-20 10:07:56.670 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-10-20 10:14:34.243 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3549
+2023-10-20 10:14:35.877 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3549

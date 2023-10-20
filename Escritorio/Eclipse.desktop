@@ -1,0 +1,6 @@
+[Desktop Entry]
+Comment=Eclipse normal
+Terminal=false
+Name=Eclipse
+Exec=eclipse
+Type=Application

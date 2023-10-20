@@ -1,0 +1,95 @@
+2023-10-20 08:38:21.703 [info] 
+
+
+
+
+2023-10-20 08:38:21.732 [info] Extension host agent started.
+2023-10-20 08:38:21.907 [info] [127.0.0.1][f570b78d][ManagementConnection] New connection established.
+2023-10-20 08:38:21.914 [info] [127.0.0.1][d4eed360][ExtensionHostConnection] New connection established.
+2023-10-20 08:38:22.274 [info] [127.0.0.1][d4eed360][ExtensionHostConnection] <360814> Launched Extension Host Process.
+2023-10-20 08:38:24.365 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:32246)
+    at A.updateTitle (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:27446)
+    at V.<computed> (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:22715)
+    at Object.call (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:34:5059)
+    at h.s (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:5150)
+    at h.q (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:4661)
+    at g.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:4066)
+    at n.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
+    at n.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
+    at process.he (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:25:9949)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-10-20 08:42:04.263 [info] [127.0.0.1][f570b78d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-20 08:42:04.319 [info] [127.0.0.1][d4eed360][ExtensionHostConnection] <360814> Extension Host Process exited with code: 0, signal: null.
+2023-10-20 08:42:04.320 [info] Cancelling previous shutdown timeout
+2023-10-20 08:42:04.320 [info] Last EH closed, waiting before shutting down
+2023-10-20 08:42:07.502 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-10-20 08:42:07.503 [info] Cancelling previous shutdown timeout
+2023-10-20 08:42:07.680 [info] [127.0.0.1][9a0a919c][ManagementConnection] New connection established.
+2023-10-20 08:42:07.692 [info] [127.0.0.1][92c15b78][ExtensionHostConnection] New connection established.
+2023-10-20 08:42:07.716 [info] [127.0.0.1][92c15b78][ExtensionHostConnection] <361244> Launched Extension Host Process.
+2023-10-20 08:47:07.503 [info] New EH opened, aborting shutdown
+2023-10-20 08:54:47.188 [info] [127.0.0.1][9a0a919c][ManagementConnection] The client has reconnected.
+2023-10-20 08:54:47.432 [info] [127.0.0.1][92c15b78][ExtensionHostConnection] The client has reconnected.
+2023-10-20 08:54:48.400 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:32246)
+    at A.updateIcon (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:27496)
+    at V.<computed> (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:22715)
+    at Object.call (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:34:5059)
+    at h.s (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:5150)
+    at h.q (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:4661)
+    at g.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:4066)
+    at n.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
+    at n.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
+    at process.he (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:25:9949)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-10-20 08:54:48.403 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:32246)
+    at A.updateTitle (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:27446)
+    at V.<computed> (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:22715)
+    at Object.call (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:34:5059)
+    at h.s (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:5150)
+    at h.q (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:4661)
+    at g.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:4066)
+    at n.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
+    at n.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
+    at process.he (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:25:9949)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-10-20 08:54:48.404 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:32246)
+    at A.updateIcon (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:27496)
+    at V.<computed> (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:22715)
+    at Object.call (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:34:5059)
+    at h.s (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:5150)
+    at h.q (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:4661)
+    at g.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:4066)
+    at n.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
+    at n.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
+    at process.he (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:25:9949)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-10-20 08:54:48.404 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:32246)
+    at A.updateTitle (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:27446)
+    at V.<computed> (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:44:22715)
+    at Object.call (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:34:5059)
+    at h.s (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:5150)
+    at h.q (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:4661)
+    at g.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:32:4066)
+    at n.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
+    at n.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
+    at process.he (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/platform/terminal/node/ptyHostMain.js:25:9949)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-10-20 09:51:08.146 [info] [127.0.0.1][92c15b78][ExtensionHostConnection] The client has reconnected.
+2023-10-20 09:51:10.734 [info] [127.0.0.1][92c15b78][ExtensionHostConnection] <361244> Extension Host Process exited with code: 0, signal: null.
+2023-10-20 09:51:10.734 [info] Last EH closed, waiting before shutting down
+2023-10-20 09:56:10.734 [info] Last EH closed, shutting down

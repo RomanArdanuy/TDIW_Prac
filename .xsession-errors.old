@@ -1,0 +1,262 @@
+Xsession: X session started for tdiw-k11 at vie 06 oct 2023 09:35:11 CEST
+WARNING: tempfile is deprecated; consider using mktemp instead.
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/10160/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/TDIW/tdiw-k11/.Xauthority
+localuser:tdiw-k11 being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=tdiw-k11
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/TDIW/tdiw-k11
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/10160/bus
+dbus-update-activation-environment: setting LOGNAME=tdiw-k11
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/10160
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/TDIW/tdiw-k11/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/tdiw-k11
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting KRB5CCNAME=FILE:/tmp/krb5cc_10160_wKteA3
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/10160/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/TDIW/tdiw-k11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/
+SSH_AUTH_SOCK=/run/user/10160/keyring/ssh
+x-session-manager[2324]: WARNING: t+1,28350s: Failed to start app: Unable to start application: Falló al ejecutar el proceso hijo «gsettings-data-convert» (No such file or directory)
+** Message: 09:35:15.116: Existing monitor config (/home/TDIW/tdiw-k11/.config/cinnamon-monitors.xml) not found at startup. Looking for legacy configuration (monitors.xml)
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: (null) attached to VGA-1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: true
+     position: -1 -1
+  Output: BenQ 22" attached to HDMI-1
+     status: on
+     width: 1920
+     height: 1080
+     rate: 60
+     primary: false
+     position: 0 0
+  Output: (null) attached to DP-1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI-2
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP-2
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: (null) attached to VGA-1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: BenQ 22" attached to HDMI-1
+     status: on
+     width: 1920
+     height: 1080
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to DP-1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI-2
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP-2
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+[cinnamon-settings-daemon-smartcard] Failed to start: no se ha podido encontrar un controlador de tarjetas inteligentes adecuado
+Cjs-Message: 09:35:19.542: Profiler is disabled. Not setting up signals.
+Clutter-Message: 09:35:19.752: Sync method: PRESENTATION TIME
+Tracker-Message: 09:35:19.903: Set scheduler policy to SCHED_IDLE
+Tracker-Message: 09:35:19.903: Setting priority nice level to 19
+(uint32 2,)
+Tracker-Message: 09:35:20.069: Set scheduler policy to SCHED_IDLE
+Tracker-Message: 09:35:20.069: Setting priority nice level to 19
+libva info: VA-API version 1.10.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_10
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+libva info: va_openDriver() returns 1
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so
+libva info: Found init function __vaDriverInit_1_8
+libva info: va_openDriver() returns 0
+vmware-user: could not open /proc/fs/vmblock/dev
+Error: /usr/bin/vmtoolsd must be run inside a virtual machine on a VMware hypervisor product.
+
+** (nemo-desktop:2576): WARNING **: 09:35:20.622: Current gtk theme is not known to have nemo support (Adwaita) - checking...
+
+** (nemo-desktop:2576): WARNING **: 09:35:20.733: The theme appears to have no nemo support.  Adding some...
+** Message: 09:35:20.868: nemo-desktop: session is not cinnamon (checked XDG_SESSION_DESKTOP,DESKTOP_SESSION environment variables.) Applying default behavior
+Cjs-Message: 09:35:22.036: JS LOG: About to start Cinnamon
+Cjs-Message: 09:35:24.620: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 2568 ms
+Cjs-Message: 09:35:24.630: JS LOG: [LookingGlass/info] loading default theme
+Cjs-Message: 09:35:25.089: JS LOG: [LookingGlass/info] loaded at Fri Oct 06 2023 09:35:25 GMT+0200 (CEST)
+Cjs-Message: 09:35:25.089: JS LOG: Cinnamon started at Fri Oct 06 2023 09:35:25 GMT+0200 (CEST)
+Cjs-Message: 09:35:25.312: JS LOG: [LookingGlass/info] ExtensionSystem started in 2 ms
+Cjs-Message: 09:35:25.312: JS LOG: [LookingGlass/info] DeskletManager started in 2 ms
+Cjs-Message: 09:35:25.312: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+openGL version 2.1 Mesa 20 detected (GL Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 09:35:25.721: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 09:35:25.725: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 42 ms
+Cjs-Message: 09:35:25.742: JS LOG: [LookingGlass/info] Installing settings for show-desktop@cinnamon.org
+Cjs-Message: 09:35:25.743: JS LOG: [LookingGlass/info] Settings successfully installed for show-desktop@cinnamon.org
+Cjs-Message: 09:35:25.857: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 132 ms
+Cjs-Message: 09:35:25.879: JS LOG: [LookingGlass/info] Installing settings for favorites@cinnamon.org
+Cjs-Message: 09:35:25.879: JS LOG: [LookingGlass/info] Settings successfully installed for favorites@cinnamon.org
+Cjs-Message: 09:35:25.891: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 34 ms
+Cjs-Message: 09:35:25.906: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 15 ms
+Cjs-Message: 09:35:25.925: JS LOG: [LookingGlass/info] Installing settings for notifications@cinnamon.org
+Cjs-Message: 09:35:25.925: JS LOG: [LookingGlass/info] Settings successfully installed for notifications@cinnamon.org
+Cjs-Message: 09:35:25.932: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 09:35:25.941: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 35 ms
+Cjs-Message: 09:35:26.039: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 98 ms
+Cjs-Message: 09:35:26.057: JS LOG: [LookingGlass/info] Installing settings for printers@cinnamon.org
+Cjs-Message: 09:35:26.057: JS LOG: [LookingGlass/info] Settings successfully installed for printers@cinnamon.org
+Cjs-Message: 09:35:26.146: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 107 ms
+Cjs-Message: 09:35:26.289: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 142 ms
+Cjs-Message: 09:35:26.316: JS LOG: [LookingGlass/info] Installing settings for calendar@cinnamon.org
+Cjs-Message: 09:35:26.316: JS LOG: [LookingGlass/info] Settings successfully installed for calendar@cinnamon.org
+Cjs-Message: 09:35:26.413: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 124 ms
+Cjs-Message: 09:35:26.467: JS LOG: [LookingGlass/info] Installing settings for power@cinnamon.org
+Cjs-Message: 09:35:26.467: JS LOG: [LookingGlass/info] Settings successfully installed for power@cinnamon.org
+Cjs-Message: 09:35:26.490: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 77 ms
+Cjs-Message: 09:35:26.577: JS LOG: [LookingGlass/info] Installing settings for sound@cinnamon.org
+Cjs-Message: 09:35:26.578: JS LOG: [LookingGlass/info] Settings successfully installed for sound@cinnamon.org
+Cjs-Message: 09:35:26.622: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 132 ms
+
+** (csd-power:2446): CRITICAL **: 09:35:26.763: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 09:35:26.810: JS LOG: [LookingGlass/info] Installing settings for grouped-window-list@cinnamon.org
+Cjs-Message: 09:35:26.810: JS LOG: [LookingGlass/info] Settings successfully installed for grouped-window-list@cinnamon.org
+Cjs-Message: 09:35:26.830: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 09:35:26.835: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 213 ms
+Cjs-Message: 09:35:27.035: JS LOG: [LookingGlass/info] Installing settings for network@cinnamon.org
+Cjs-Message: 09:35:27.035: JS LOG: [LookingGlass/info] Settings successfully installed for network@cinnamon.org
+Cjs-Message: 09:35:27.048: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 213 ms
+Cjs-Message: 09:35:27.205: JS LOG: [LookingGlass/info] Installing settings for menu@cinnamon.org
+Cjs-Message: 09:35:27.206: JS LOG: [LookingGlass/info] Settings successfully installed for menu@cinnamon.org
+x-session-manager[2324]: WARNING: t+13,57885s: Detected that screensaver has appeared on the bus
+Cjs-Message: 09:35:27.475: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 427 ms
+Cjs-Message: 09:35:27.476: JS LOG: [LookingGlass/info] AppletManager started in 2382 ms
+Cjs-Message: 09:35:27.480: JS LOG: [LookingGlass/info] Cinnamon took 5444 ms to start
+Cjs-Message: 09:35:27.484: JS LOG: [LookingGlass/info] Hiding systray: network
+Cjs-Message: 09:35:27.500: JS LOG: Unknown network device type, is 14
+Cjs-Message: 09:35:27.526: JS LOG: Unknown network device type, is 13
+Cjs-Message: 09:35:27.526: JS LOG: Unknown network device type, is 13
+07:35:28:0278 Gs  plugin appstream took 5,4 seconds to do setup
+07:35:28:0318 Gs  enabled plugins: desktop-categories, fwupd, os-release, packagekit, packagekit-local, packagekit-offline, packagekit-proxy, packagekit-refine-repos, packagekit-refresh, packagekit-upgrade, packagekit-url-to-app, appstream, desktop-menu-path, hardcoded-blocklist, hardcoded-popular, malcontent, modalias, odrs, packagekit-refine, rewrite-resource, packagekit-history, provenance, systemd-updates, generic-updates, provenance-license, icons, key-colors, key-colors-metadata
+07:35:28:0318 Gs  disabled plugins: dpkg, dummy, repos
+07:35:28:0787 PK  failed to set proxy: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._pk_2dengine_2derror_2dquark.Code3: setting the proxy failed: failed to get the uid
+07:35:28:0787 GsPluginPackageKit failed to set proxies: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._pk_2dengine_2derror_2dquark.Code3: setting the proxy failed: failed to get the uid
+07:35:35:0324 Gs  adding wildcard app */*/*/*/org.gnome.Builder.desktop/* to plugin cache
+07:35:35:0326 Gs  adding wildcard app */*/*/*/org.gnome.Calculator.desktop/* to plugin cache
+07:35:35:0326 Gs  adding wildcard app */*/*/*/org.gnome.clocks.desktop/* to plugin cache
+07:35:35:0326 Gs  adding wildcard app */*/*/*/org.gnome.Dictionary.desktop/* to plugin cache
+07:35:35:0326 Gs  adding wildcard app */*/*/*/org.gnome.Documents.desktop/* to plugin cache
+07:35:35:0326 Gs  adding wildcard app */*/*/*/org.gnome.Evince/* to plugin cache
+07:35:35:0326 Gs  adding wildcard app */*/*/*/org.gnome.gedit.desktop/* to plugin cache
+07:35:35:0326 Gs  adding wildcard app */*/*/*/org.gnome.Maps.desktop/* to plugin cache
+07:35:35:0326 Gs  adding wildcard app */*/*/*/org.gnome.Weather/* to plugin cache
+07:35:35:0328 Gs  Only 0 apps for recent list, hiding
+07:35:35:0328 Gs  hiding category graphics featured applications: found only 0 to show, need at least 9
+07:35:35:0328 Gs  hiding category audio-video featured applications: found only 0 to show, need at least 9
+07:35:37:0839 Gs  not handling error download-failed for action refine: failed to download http://people.gnome.org/~jimmac/gnome-software/slack-logo.svg: Not Found: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+</body></html>
+
+07:35:37:0907 Gs  CSS parse error 1:107: Using one color stop with linear-gradient() is deprecated.
+07:35:38:0168 Gs  FIXME: Unknown progress handling is not yet implemented for GsProgressButton
+07:35:38:0168 Gs  FIXME: Unknown progress handling is not yet implemented for GsProgressButton
+07:35:38:0168 Gs  FIXME: Unknown progress handling is not yet implemented for GsProgressButton
+07:35:38:0168 Gs  FIXME: Unknown progress handling is not yet implemented for GsProgressButton
+07:35:38:0466 Gs  automatically prevented from changing kind on system/package/*/generic/org.gphoto.libgphoto2/* from generic to unknown!
+
+Invalid System Path: Temp directory '/home/TDIW/tdiw-k11/.PhpStorm2018.1/system/tmp' is inaccessible.
+If you have modified the 'idea.system.path' property please make sure it is correct,
+otherwise please re-install the IDE.
+
+Details: unable to create the directory
+oct 06, 2023 9:36:20 AM java.util.prefs.FileSystemPreferences$1 run
+INFO: Created user preferences directory.
+oct 06, 2023 9:36:20 AM java.util.prefs.FileSystemPreferences$6 run
+WARNING: Prefs file removed in background /home/TDIW/tdiw-k11/.java/.userPrefs/prefs.xml
+Cinnamon warning: Invalid WM_TRANSIENT_FOR window 0x4a00007 specified for 0x4a00020 (Invalid Sy).
+07:36:42:0656 Gs  not handling error failed for action refresh: E: Fallo al obtener http://ftp.es.debian.org/debian/dists/bullseye/InRelease  
+E: Fallo al obtener http://security.debian.org/debian-security/dists/bullseye-security/InRelease  
+E: Fallo al obtener http://ftp.es.debian.org/debian/dists/bullseye-updates/InRelease  
+E: Fallo al obtener https://download.docker.com/linux/debian/dists/bullseye/InRelease  
+E: Fallo al obtener http://packages.microsoft.com/repos/code/dists/stable/InRelease  
+E: No se han podido descargar algunos archivos de índice, se han omitido, o se han utilizado unos antiguos en su lugar.
+
+07:36:46:0315 GsPluginPackageKit unhandled info state installing
+07:36:46:0315 GsPluginPackageKit unhandled info state installing
+Cinnamon warning: Invalid WM_TRANSIENT_FOR window 0x4800045 specified for 0x480004c (PhpStorm U).
+Cinnamon warning: Invalid WM_TRANSIENT_FOR window 0x4800069 specified for 0x4800070 (Data Shari).
+
+** (nemo:4181): WARNING **: 09:38:12.005: Current gtk theme is not known to have nemo support (Adwaita) - checking...
+
+** (nemo:4181): WARNING **: 09:38:12.065: The theme appears to have no nemo support.  Adding some...
+
+(nemo:4181): GLib-CRITICAL **: 09:38:53.274: g_hash_table_foreach: assertion 'version == hash_table->version' failed
+
+(nemo-desktop:2576): GLib-CRITICAL **: 09:38:53.282: g_hash_table_foreach: assertion 'version == hash_table->version' failed
+
+** (nemo:8650): WARNING **: 10:03:21.229: Current gtk theme is not known to have nemo support (Adwaita) - checking...
+
+** (nemo:8650): WARNING **: 10:03:21.287: The theme appears to have no nemo support.  Adding some...
+
+** (nemo:8871): WARNING **: 10:04:16.625: Current gtk theme is not known to have nemo support (Adwaita) - checking...
+
+** (nemo:8871): WARNING **: 10:04:16.684: The theme appears to have no nemo support.  Adding some...
+x-session-manager[2324]: WARNING: t+3624,86165s: Requesting system restart...
+x-session-manager[2324]: WARNING: t+3624,86298s: Attempting to restart using systemd...
+x-session-manager[2324]: WARNING: t+3624,96564s: Application 'cinnamon-settings-daemon-a11y-settings.desktop' killed by signal 15

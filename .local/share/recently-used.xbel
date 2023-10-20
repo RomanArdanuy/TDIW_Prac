@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/TDIW/tdiw-k11/registre.html" added="2023-10-20T06:55:36.412499Z" modified="2023-10-20T06:55:36.412512Z" visited="2023-10-20T06:55:36.412500Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox-esr/firefox-esr %u&apos;" modified="2023-10-20T06:55:36.412504Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/TDIW/tdiw-k11/public_html/index.html" added="2023-10-20T07:14:06.445541Z" modified="2023-10-20T07:44:45.723987Z" visited="2023-10-20T07:14:06.445544Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox-esr/firefox-esr %u&apos;" modified="2023-10-20T07:44:45.723982Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/TDIW/tdiw-k11/public_html/.htpasswd" added="2023-10-20T07:38:32.162468Z" modified="2023-10-20T07:38:33.739834Z" visited="2023-10-20T07:38:32.162470Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gedit %U&apos;" modified="2023-10-20T07:38:32.162475Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-10-20T07:38:33.739830Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/TDIW/tdiw-k11/public_html/registre.html" added="2023-10-20T07:46:07.136462Z" modified="2023-10-20T07:48:48.411651Z" visited="2023-10-20T07:46:07.136465Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2023-10-20T07:48:48.411645Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/TDIW/tdiw-k11/public_html/html/Inici.html" added="2023-10-20T07:51:30.337053Z" modified="2023-10-20T07:51:30.337065Z" visited="2023-10-20T07:51:30.337057Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox-esr/firefox-esr %u&apos;" modified="2023-10-20T07:51:30.337060Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

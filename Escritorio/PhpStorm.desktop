@@ -1,0 +1,6 @@
+[Desktop Entry]
+Comment=Editor de text PhpStorm
+Terminal=false
+Name=PhpStorm
+Exec=phpstorm
+Type=Application
