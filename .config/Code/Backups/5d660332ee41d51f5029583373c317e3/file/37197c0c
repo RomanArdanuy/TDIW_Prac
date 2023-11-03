@@ -1,0 +1,10 @@
+file:///home/TDIW/tdiw-k11/public_html/php/Controller/llistar_categories.php {"mtime":1699002076029,"ctime":0,"size":257,"etag":"3be92qqcm89","orphaned":false,"typeId":""}
+<?php
+// controller/llistar_categories.php
+
+require_once __DIR__.'/.../model/connectaDb.php';
+require_once __DIR__.'/../model/categories.php';
+
+$categories = getCategories(); // Aquesta crida és al model
+
+include __DIR__.'/../views/llistar_categories.php';

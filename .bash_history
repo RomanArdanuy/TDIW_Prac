@@ -13,3 +13,14 @@ cd ..
 cd .ssh
 ls -la
 pwd
+htpasswd -c .htpasswd tdiw-k11
+git init
+git add .
+git add .
+git add .
+git commit -m "Init"
+git remote add origin https://github.com/RomanArdanuy/TDIW_Prac.git
+git push -u origin master
+git add .
+git commit -m "cambios"
+git push -u origin master

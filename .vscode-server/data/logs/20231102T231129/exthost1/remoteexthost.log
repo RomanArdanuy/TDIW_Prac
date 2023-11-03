@@ -1,0 +1,131 @@
+2023-11-02 23:11:30.628 [info] Extension host with pid 52144 started
+2023-11-02 23:11:30.646 [info] Lock '/home/TDIW/tdiw-k11/.vscode-server/data/User/workspaceStorage/74c4d86dc863f504f15dde947b3a866a/vscode.lock': Lock acquired.
+2023-11-02 23:11:30.770 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-02 23:11:30.771 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-02 23:11:31.288 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-02 23:11:31.320 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-02 23:11:31.320 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-02 23:11:31.498 [info] Eager extensions activated
+2023-11-02 23:11:31.498 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-02 23:11:31.499 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-02 23:11:32.173 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2023-11-02 23:11:32.628 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2023-11-03 00:14:59.504 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2023-11-03 00:15:04.948 [warning] [Decorations] CAPPING events from decorations provider vscode.git 472
+2023-11-03 00:15:10.388 [warning] [Decorations] CAPPING events from decorations provider vscode.git 472
+2023-11-03 00:15:15.846 [warning] [Decorations] CAPPING events from decorations provider vscode.git 472
+2023-11-03 00:15:21.286 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2023-11-03 00:15:25.412 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-11-03 00:15:26.733 [warning] [Decorations] CAPPING events from decorations provider vscode.git 474
+2023-11-03 00:15:32.175 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2023-11-03 00:15:37.615 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2023-11-03 00:15:50.256 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2023-11-03 00:15:55.696 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2023-11-03 00:16:01.293 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2023-11-03 00:16:06.737 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2023-11-03 00:16:12.147 [warning] [Decorations] CAPPING events from decorations provider vscode.git 473
+2023-11-03 00:16:17.582 [warning] [Decorations] CAPPING events from decorations provider vscode.git 474
+2023-11-03 00:16:23.032 [warning] [Decorations] CAPPING events from decorations provider vscode.git 478
+2023-11-03 00:16:28.473 [warning] [Decorations] CAPPING events from decorations provider vscode.git 478
+2023-11-03 00:16:33.913 [warning] [Decorations] CAPPING events from decorations provider vscode.git 478
+2023-11-03 00:16:39.371 [warning] [Decorations] CAPPING events from decorations provider vscode.git 479
+2023-11-03 00:16:44.807 [warning] [Decorations] CAPPING events from decorations provider vscode.git 479
+2023-11-03 00:16:51.548 [warning] [Decorations] CAPPING events from decorations provider vscode.git 479
+2023-11-03 00:16:56.994 [warning] [Decorations] CAPPING events from decorations provider vscode.git 479
+2023-11-03 00:17:02.940 [warning] [Decorations] CAPPING events from decorations provider vscode.git 481
+2023-11-03 00:17:08.404 [warning] [Decorations] CAPPING events from decorations provider vscode.git 481
+2023-11-03 00:17:13.852 [warning] [Decorations] CAPPING events from decorations provider vscode.git 481
+2023-11-03 00:20:17.755 [warning] [Decorations] CAPPING events from decorations provider vscode.git 481
+2023-11-03 00:20:20.468 [info] Extension host terminating: received terminate message from renderer
+2023-11-03 00:20:20.469 [info] Lock '/home/TDIW/tdiw-k11/.vscode-server/data/User/workspaceStorage/74c4d86dc863f504f15dde947b3a866a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-11-03 00:20:20.495 [error] Canceled: Canceled
+	at new m (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at s.D [as value] (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1312800)
+	at c.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1328588)
+	at /home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1333429
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1333415)
+	at w.<anonymous> (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3521)
+	at w.dispose (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at w.<anonymous> (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1314812)
+	at w.dispose (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at o (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at s.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:7848)
+	at c.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:151:19153) setContext undefined
+2023-11-03 00:20:20.497 [error] Canceled: Canceled
+	at new m (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at set b [as b] (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/github/dist/extension.js:2:714415)
+	at /home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/github/dist/extension.js:2:715056
+	at s.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1402040)
+	at c.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1328588)
+	at /home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1333429
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1333415)
+	at w.<anonymous> (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3521)
+	at w.dispose (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at w.<anonymous> (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1314812)
+	at w.dispose (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at o (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at s.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:7848)
+	at c.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/home/TDIW/tdiw-k11/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:151:19153) setContext undefined
+2023-11-03 00:20:20.499 [info] Extension host with pid 52144 exiting with code 0

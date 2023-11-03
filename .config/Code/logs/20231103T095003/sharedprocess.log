@@ -1,0 +1,9 @@
+2023-11-03 09:50:09.360 [info] Starting worker process with pid 826753 (type: fileWatcher, window: 1).
+2023-11-03 09:50:48.129 [info] Worker process with pid 826753 terminated normally (type: fileWatcher, window: 1).
+2023-11-03 09:50:50.072 [info] Starting worker process with pid 826948 (type: fileWatcher, window: 1).
+2023-11-03 10:08:13.395 [info] Getting Manifest... ms-vscode.live-server
+2023-11-03 10:08:18.756 [info] Installing extension: ms-vscode.live-server
+2023-11-03 10:08:39.483 [info] Extracted extension to /home/TDIW/tdiw-k11/.vscode/extensions/.cdc4b4af-e44d-4f9f-b5d8-a1d2aa51e326: ms-vscode.live-server
+2023-11-03 10:08:39.487 [info] Renamed to /home/TDIW/tdiw-k11/.vscode/extensions/ms-vscode.live-server-0.4.8
+2023-11-03 10:08:39.489 [info] Extracting completed. ms-vscode.live-server
+2023-11-03 10:08:39.533 [info] Extension installed successfully: ms-vscode.live-server

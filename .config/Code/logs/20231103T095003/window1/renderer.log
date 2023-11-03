@@ -1,0 +1,12 @@
+2023-11-03 09:50:10.355 [info] [perf] Render performance baseline is 66ms
+2023-11-03 09:50:52.638 [info] [perf] Render performance baseline is 62ms
+2023-11-03 09:55:24.914 [error] [text file model] handleSaveError(77) - exit - resulted in a save error: Error: No se puede escribir el archivo "/home/TDIW/tdiw-k11/public_html/index.php" (Error: Archivo Modificado Desde) file:///home/TDIW/tdiw-k11/public_html/index.php
+2023-11-03 10:02:09.496 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: No se puede escribir el archivo "/home/TDIW/tdiw-k11/public_html/resource_category_list.php" (Error: Archivo Modificado Desde) file:///home/TDIW/tdiw-k11/public_html/resource_category_list.php
+2023-11-03 10:02:24.776 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: No se puede escribir el archivo "/home/TDIW/tdiw-k11/public_html/resource_category_list.php" (Error: Archivo Modificado Desde) file:///home/TDIW/tdiw-k11/public_html/resource_category_list.php
+2023-11-03 10:03:21.321 [error] [text file model] handleSaveError(3) - exit - resulted in a save error: Error: No se puede escribir el archivo "/home/TDIW/tdiw-k11/public_html/resource_category_list.php" (Error: Archivo Modificado Desde) file:///home/TDIW/tdiw-k11/public_html/resource_category_list.php
+2023-11-03 10:08:28.537 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-11-03 10:08:33.150 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-11-03 10:08:39.515 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-11-03 10:09:07.612 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-11-03 10:09:31.642 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-11-03 10:09:32.594 [info] UNRESPONSIVE extension host: starting to profile NOW

@@ -1,0 +1,5 @@
+2023-11-03 09:49:27.032 [info] Started initializing default profile extensions in extensions installation folder. file:///home/TDIW/tdiw-k11/.vscode/extensions
+2023-11-03 09:49:27.229 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/TDIW/tdiw-k11/.vscode/extensions
+2023-11-03 09:49:40.578 [info] [perf] Render performance baseline is 81ms
+2023-11-03 09:49:47.899 [info] The pty host became responsive again
+2023-11-03 09:49:52.117 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}

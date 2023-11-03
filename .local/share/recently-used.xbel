@@ -3,56 +3,36 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/TDIW/tdiw-k11/registre.html" added="2023-10-20T06:55:36.412499Z" modified="2023-10-20T06:55:36.412512Z" visited="2023-10-20T06:55:36.412500Z">
+  <bookmark href="file:///home/TDIW/tdiw-k11/public_html/html/index.html" added="2023-11-03T08:11:10.226917Z" modified="2023-11-03T08:37:53.403325Z" visited="2023-11-03T08:11:10.226919Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
         <bookmark:applications>
-          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox-esr/firefox-esr %u&apos;" modified="2023-10-20T06:55:36.412504Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox-esr/firefox-esr %u&apos;" modified="2023-11-03T08:37:53.403315Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/TDIW/tdiw-k11/public_html/index.html" added="2023-10-20T07:14:06.445541Z" modified="2023-10-20T07:44:45.723987Z" visited="2023-10-20T07:14:06.445544Z">
+  <bookmark href="file:///home/TDIW/tdiw-k11/public_html/index.php" added="2023-11-03T08:41:29.929444Z" modified="2023-11-03T08:41:32.823229Z" visited="2023-11-03T08:41:29.929446Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/html"/>
-        <bookmark:applications>
-          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox-esr/firefox-esr %u&apos;" modified="2023-10-20T07:44:45.723982Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/TDIW/tdiw-k11/public_html/.htpasswd" added="2023-10-20T07:38:32.162468Z" modified="2023-10-20T07:38:33.739834Z" visited="2023-10-20T07:38:32.162470Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
+        <mime:mime-type type="application/x-php"/>
         <bookmark:groups>
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="nemo" exec="&apos;gedit %U&apos;" modified="2023-10-20T07:38:32.162475Z" count="1"/>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-10-20T07:38:33.739830Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;gedit %U&apos;" modified="2023-11-03T08:41:29.929547Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-11-03T08:41:32.823227Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/TDIW/tdiw-k11/public_html/registre.html" added="2023-10-20T07:46:07.136462Z" modified="2023-10-20T07:48:48.411651Z" visited="2023-10-20T07:46:07.136465Z">
+  <bookmark href="file:///home/TDIW/tdiw-k11/public_html" added="2023-11-03T08:50:47.992297Z" modified="2023-11-03T08:50:47.992308Z" visited="2023-11-03T08:50:47.992299Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/html"/>
+        <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="nemo" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2023-10-20T07:48:48.411645Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/TDIW/tdiw-k11/public_html/html/Inici.html" added="2023-10-20T07:51:30.337053Z" modified="2023-10-20T07:51:30.337065Z" visited="2023-10-20T07:51:30.337057Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/html"/>
-        <bookmark:applications>
-          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox-esr/firefox-esr %u&apos;" modified="2023-10-20T07:51:30.337060Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-03T08:50:47.992302Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -20,10 +20,25 @@
 			"buffers":
 			[
 				{
+					"contents": "\n <!DOCTYPE html> \n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\" >\n<title> Pr&agrave;ctiques TDIW</title> \n<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/webcss3.css\" title=\"main\" /> \n</head>\n<body>\n\n<header>\n\t<h1><a href=\"#\">Pr&agrave;ctiques de TDIW</h1>\n</header>\n<section>\n\n<section>\n<h3>Accés a la pàgina web:  </h3>\n\t<p>\n\t\t<a href=\"https://tdiw-k11.deic-docencia.uab.cat\"\ttitle=\"web\">https://tdiw-k11.deic-docencia.uab.cat</a>\t\n\t</p>\n\t<p>\n\tQualsevol usuari amb un password correcte pot accedir a la pàgina\n\tweb, tret que ho configuris d'una altra forma fent servir un arxiu\n\t.htaccess\n\t</p>\n<br>\n<h3>Accés a la base de dades:  </h3>\n\t<p>\n\t\t<a href=\"https://deic-docencia.uab.cat/phppgadmin/\" title=\"bbdd\">https://deic-docencia.uab.cat/phppgadmin/</a>\t\n\t</p>\n\t<p>\n\t\tFeu servir la mateixa combinació nom d'usuari - paraula de pas que feu servir per accedir als ordinadors del laboratori.\n\t</p>\n\n<h3>Accés als logs:  </h3>\n        <p>\n                <a href=\"https://tdiw-k11.deic-docencia.uab.cat/logs\" title=\"logs\">https://tdiw-k11.deic-docencia.uab.cat/logs</a>  \n        </p>\n        <p>Trobareu els darrers logs en format text pla. Només l'usuari\n        \"amo dels logs\" els pots consultar.</p>\n\n</section>\n\n</body>\n</html>\n\n",
 					"file": "/home/TDIW/tdiw-k11/public_html/index.html",
+					"file_size": 1278,
+					"file_write_time": 133342308390237913,
 					"settings":
 					{
 						"buffer_size": 1271,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Formulario de Registro</title>\n</head>\n<body>\n\n<form>\n    <!-- Campo de Nombre -->\n    <label for=\"nom\">Nom:</label>\n    <input type=\"text\" id=\"nom\" name=\"nom\" pattern=\"[A-Za-z\\s]+\" required>\n    <br>\n\n    <!--Apellidos-->\n    <label for=\"apellidos\">Apellidos:</label>\n    <input type=\"text\" id=\"apellidos\" name=\"apellidos\" pattern=\"[A-Za-z\\s]+\" required>\n    <br>\n\n\n    <!-- Campo de Correo Electrónico -->\n    <label for=\"email\">Correu electronic:</label>\n    <input type=\"email\" id=\"email\" name=\"email\" required>\n    <br>\n\n    <!-- Campo de Contraseña -->\n    <label for=\"password\">Password:</label>\n    <input type=\"password\" id=\"password\" name=\"password\" pattern=\"\\w+\" required>\n    <br>\n\n    <!-- Campo de Dirección -->\n    <label for=\"adreca\">Adreça:</label>\n    <input type=\"text\" id=\"adreca\" name=\"adreca\" maxlength=\"30\" required>\n    <br>\n\n    <!-- Campo de Población -->\n    <label for=\"poblacio\">Població:</label>\n    <input type=\"text\" id=\"poblacio\" name=\"poblacio\" maxlength=\"30\" required>\n    <br>\n\n\n\n    <!-- Campo de Código Postal -->\n    <label for=\"codiPostal\">Codi Postal:</label>\n    <input type=\"text\" id=\"codiPostal\" name=\"codiPostal\" pattern=\"\\d{5}\" required>\n    <br>\n\n    <input type=\"submit\" value=\"Registrar\">\n</form>\n\n</body>\n</html>\n",
+					"file": "/home/TDIW/tdiw-k11/public_html/registre.html",
+					"file_size": 1423,
+					"file_write_time": 133422617894424116,
+					"settings":
+					{
+						"buffer_size": 1416,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -95,7 +110,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -121,6 +136,34 @@
 								},
 								"translation.x": 0.0,
 								"translation.y": 360.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/TDIW/tdiw-k11/public_html/registre.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1416,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										508,
+										508
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -165,7 +208,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,630,274,1270,754,1920,1080",
+			"position": "0,1,0,0,0,630,274,1270,754,1920,1080",
 			"project": "",
 			"replace":
 			{

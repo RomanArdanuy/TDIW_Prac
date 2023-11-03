@@ -17,3 +17,6 @@
 2023-10-20 09:01:23.530 [info] [127.0.0.1][d7d0bd34][ExtensionHostConnection] New connection established.
 2023-10-20 09:01:23.543 [info] [127.0.0.1][d7d0bd34][ExtensionHostConnection] <70018> Launched Extension Host Process.
 2023-10-20 09:06:23.264 [info] New EH opened, aborting shutdown
+2023-10-20 13:24:20.215 [info] [127.0.0.1][d7d0bd34][ExtensionHostConnection] <70018> Extension Host Process exited with code: 0, signal: null.
+2023-10-20 13:24:20.215 [info] Last EH closed, waiting before shutting down
+2023-10-20 13:29:20.216 [info] Last EH closed, shutting down

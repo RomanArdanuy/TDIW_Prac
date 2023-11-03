@@ -1,0 +1,13 @@
+file:///home/TDIW/tdiw-k11/public_html/php/Model/categoria.php {"mtime":1699003439334,"ctime":0,"size":440,"etag":"3be94one8e6","orphaned":false,"typeId":""}
+<?php
+class CategoriaModel {
+    public function getCategorias() {
+        return [
+            ['nombre' => 'Camisetas', 'imagen' => 'camisetas.jpg'],
+            ['nombre' => 'Pantalones', 'imagen' => 'pantalones.jpg'],
+            ['nombre' => 'Zapatos', 'imagen' => 'zapatos.jpg'],
+            ['nombre' => 'Sombreros', 'imagen' => 'sombreros.jpg'],
+            ['nombre' => 'Chaquetas', 'imagen' => 'chaquetas.jpg']
+        ];
+    }
+}

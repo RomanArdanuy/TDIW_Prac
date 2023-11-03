@@ -1,0 +1,10 @@
+2023-11-03 09:49:40.971 [warning] No ptyHost heartbeat after 6 seconds
+2023-11-03 09:49:41.005 [info] Starting worker process with pid 826422 (type: fileWatcher, window: 1).
+2023-11-03 09:49:45.972 [error] No ptyHost heartbeat after 12 seconds
+2023-11-03 09:49:50.948 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-11-03 09:49:51.529 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-11-03 09:49:54.210 [info] Extracted extension to /home/TDIW/tdiw-k11/.vscode/extensions/.b23723a8-0352-4192-b9e6-0b842bc8ab9c: ms-ceintl.vscode-language-pack-es
+2023-11-03 09:49:54.215 [info] Renamed to /home/TDIW/tdiw-k11/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.74.12140936
+2023-11-03 09:49:54.220 [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+2023-11-03 09:49:54.230 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-11-03 09:49:54.339 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es

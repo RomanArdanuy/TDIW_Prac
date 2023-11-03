@@ -1,0 +1,18 @@
+file:///home/TDIW/tdiw-k11/public_html/resource_category_list.php {"mtime":1699002131353,"ctime":0,"size":0,"etag":"3be93056e0","orphaned":false,"typeId":""}
+<!-- resource_llistar_categories.php -->
+
+ <html lang="ca">
+ <head>
+ <title>Llistat de categories - TDIW</title>
+ </head>
+ <body>
+
+ <header>
+ <?php require __DIR__.'/controller/categoriacontroller.php'; ?>
+ </header>
+
+ <div class="container">
+ <?php require __DIR__.'/controller/llistar_categories.php'; ?>
+ </div>
+ </body>
+ </html>
