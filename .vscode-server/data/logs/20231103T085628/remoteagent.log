@@ -159,3 +159,6 @@
 2023-11-03 10:08:12.097 [info] Renamed to /home/TDIW/tdiw-k11/.vscode-server/extensions/ms-vscode.live-server-0.4.11
 2023-11-03 10:08:12.102 [info] Extracting extension completed. ms-vscode.live-server
 2023-11-03 10:08:12.106 [info] Extension installed successfully: ms-vscode.live-server
+2023-11-03 13:23:29.882 [info] [127.0.0.1][77e4971b][ExtensionHostConnection] <92214> Extension Host Process exited with code: 0, signal: null.
+2023-11-03 13:23:29.883 [info] Last EH closed, waiting before shutting down
+2023-11-03 13:28:29.884 [info] Last EH closed, shutting down

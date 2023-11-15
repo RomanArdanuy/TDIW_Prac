@@ -24,3 +24,7 @@ git push -u origin master
 git add .
 git commit -m "cambios"
 git push -u origin master
+git init
+git commit -m "cambios"
+git push -u
+git push -u

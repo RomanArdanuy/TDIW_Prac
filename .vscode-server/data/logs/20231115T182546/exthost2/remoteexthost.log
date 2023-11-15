@@ -1,0 +1,18 @@
+2023-11-15 18:26:28.388 [info] Extension host with pid 341927 started
+2023-11-15 18:26:28.399 [info] Lock '/home/TDIW/tdiw-k11/.vscode-server/data/User/workspaceStorage/db7ea9fa2893f9989f261fd80a6347d9/vscode.lock': Lock acquired.
+2023-11-15 18:26:28.433 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-15 18:26:28.454 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-15 18:26:28.454 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-15 18:26:28.630 [info] Eager extensions activated
+2023-11-15 18:26:28.630 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-15 18:26:28.630 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-15 18:26:31.553 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-15 18:26:31.554 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-15 18:26:31.555 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-15 18:29:24.180 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
+2023-11-15 18:29:24.767 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
+2023-11-15 18:29:28.149 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
+2023-11-15 18:30:02.812 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
+2023-11-15 18:30:08.392 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
+2023-11-15 18:30:14.025 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
+2023-11-15 18:30:21.756 [warning] [Decorations] CAPPING events from decorations provider vscode.git 999
