@@ -28,3 +28,6 @@ git init
 git commit -m "cambios"
 git push -u
 git push -u
+git config
+git commit -m "cambios"
+git push -u
