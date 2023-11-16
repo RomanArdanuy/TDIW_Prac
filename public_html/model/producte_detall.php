@@ -1,10 +1,9 @@
 <?php
-$details_producte = [
-    'id' => ,
-    'Nom' => 'Producte',
-    "Imatge" => 'X.jpg',
-    "Descripcio" => 'Producte',
-    "Preu" => 0,
-    "Actiu" => 'TRUE',
-    "Categoria_id" => 1
-];
+/*
+    function getProductesDetalls($connexio){
+        $sql = 'SELECT * FROM "public"."productes"';
+        $consulta = pg_query($connexio, $sql);
+        $pro = pg_fetch_all($consulta);
+        return $pro;
+    }
+*/

@@ -1,7 +1,4 @@
 <?php
-// controller/llistar_categories.php
-
-// controller/llistar_categories.php
 
 require_once __DIR__.'/../model/conectaBD.php';
 require_once __DIR__.'/../model/categoria.php';

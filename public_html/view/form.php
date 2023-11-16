@@ -1,5 +1,6 @@
 <form action="index.php?accio=registre" method="post">
     Nom:<input type="text" name="nom"><br />
+    Cognoms:<input type="text" name="cognom"><br />
     Email:<input type="email" name="correu"><br />
     Contrasenya:<input type="password" name="contrasenya" pattern="(?=.\d)(?=.[a-z])(?=.*[A-Z]).{6,}" title="Mínim de 6 caràcters que continguin minúscules, majúscules i números"><br />
     Adreça:<input type="text" name="adreca"><br />

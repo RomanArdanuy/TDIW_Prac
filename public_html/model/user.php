@@ -2,6 +2,7 @@
 function enviarDades($conn) {
     if (isset($_POST["Registrar"])) {
         $nom = isset($_POST["nom"]) ? $_POST["nom"] : null;
+        $cognoms = isset($_POST["cognoms"]) ? $_POST["cognoms"] : null;
         $correu = isset($_POST["correu"]) ? $_POST["correu"] : null;
         $contrasenya = isset($_POST["contrasenya"]) ? password_hash($_POST["contrasenya"], PASSWORD_DEFAULT) : null;
         $adreca = isset($_POST["adreca"]) ? $_POST["adreca"] : null;
@@ -9,8 +10,8 @@ function enviarDades($conn) {
         $CodiPostal = isset($_POST["codiPostal"]) ? $_POST["codiPostal"] : null;
 
         if ($nom && $correu && $contrasenya && $poblacio) {
-            $params = [$nom, $correu, $contrasenya, $adreca, $poblacio, $CodiPostal];
-            $sql = 'INSERT INTO "public"."Usuari"(nom, email, password, adreca, poblacio, codi_postal) VALUES ($1, $2, $3, $4, $5, $6)';
+            $params = [$nom, $cognoms, $correu, $contrasenya, $adreca, $poblacio, $CodiPostal];
+            $sql = 'INSERT INTO "public"."Usuari"(nom, cognoms, email, password, adreca, poblacio, codi_postal) VALUES ($1, $2, $3, $4, $5, $6, $7)';
 
             $consulta = pg_query_params($conn, $sql, $params);
 

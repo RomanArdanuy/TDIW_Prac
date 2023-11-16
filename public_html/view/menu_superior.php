@@ -1,3 +1,3 @@
-<h1><a href="index.php?accio=llistar-categories" title="web">DoubleR</a></h1>
-<p><a href="ndex.php?accio=usuari" title="web">Inici d'usuari</a></p>
+<h1><a href="index.php?accio=portada" title="web">DoubleR</a></h1>
+<p><a href="index.php?accio=inici" title="web">Inici d'usuari</a></p>
 <p><a href="index.php?accio=registre" title="web">Registre d'usuari</a></p>

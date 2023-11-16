@@ -2,7 +2,7 @@
 <html lang="ca">
 <head>
     <meta charset="UTF-8">
-    <title>detall producte</title>
+    <title>Usuari</title>
     <link rel="stylesheet" type="text/css" href="Estil.css">
 </head>
 <body>
