@@ -1,5 +1,5 @@
 <?php
-    require_once __DIR__.'/../model/conectatBD.php';
+    require_once __DIR__.'/../model/conectaBD.php';
     require_once __DIR__.'/../model/user.php';
 
     $connexio = connectaBD();
